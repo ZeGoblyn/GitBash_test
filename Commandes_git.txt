@@ -1,4 +1,4 @@
-git init = créer le .git dans le dossier local
+cogit init = créer le .git dans le dossier local
 
 git remote add origin thttps://github.com/ZeGoblyn/GitBash_test.g = lie le dossier local au repository
 
