@@ -1,0 +1,33 @@
+git init = créer le .git dans le dossier local
+
+git remote add origin thttps://github.com/ZeGoblyn/GitBash_test.g = lie le dossier local au repository
+
+
+git remote -v = permet de vérifier l'action de lien local / repository
+
+git status = permet de voir les fichier sur le Git et leur état / statut u projet
+
+git add . = ajoute tous les fichiers (changes to be commited)
+
+git commit = commit les fichiers prêt  
+
+git commit -m "commentaire"
+
+git push -u origin main = le push origine = branche locale, main = branche distante
+
+git branch -M <nom> = permet de renommer la branche sur laquelle on se trouve
+
+git checkout -b <nom> = permet de créer une branche à partir de celle sur laquelle on se trouve
+
+pour push la branche, même ligne que pour un push mais avec le nom de la branche
+
+git branch -d <nom> = delete branch
+
+git branch -vv = check statut des branches
+
+change default branch sur GitHub dans les settings
+
+test
+
+
+
